@@ -53,4 +53,4 @@ Exploratory Data Analysis term project (MATH485) in Computer Engineering. An R S
 
 **Mehmet Arda Uçar**  
 Computer Engineering – İzmir University of Economics  
-Student No: 20210602211
+
